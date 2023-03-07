@@ -1,0 +1,559 @@
+Hex signature,ISO 8859-1,Offset,Extension,Description,
+23 21,#!,0,,Script or data to be passed to the program following the shebang (#!),
+D4 C3 B2 A1 (little-endian),ÔÃ²¡,0,pcap,Libpcap File Format,
+A1 B2 C3 D4 (big-endian),¡²ÃÔ,0,pcap,Libpcap File Format,
+4D 3C B2 A1 (little-endian),M<²¡,0,pcap,Libpcap File Format (nanosecond-resolution),
+A1 B2 3C 4D (big-endian),¡²<M,0,pcap,Libpcap File Format (nanosecond-resolution),
+0A 0D 0D 0A,␊␍␍␊,0,pcapng,PCAP Next Generation Dump File Format,
+ED AB EE DB,í«îÛ,0,rpm,RedHat Package Manager (RPM) package,
+"53 51 4C 69 74 65 20 66
+6F 72 6D 61 74 20 33 00",SQLite format 3␀,0,"sqlitedb
+sqlite
+db",SQLite Database,
+53 50 30 31,SP01,0,bin,Amazon Kindle Update Package,
+49 57 41 44,IWAD,0,wad,internal WAD (main resource file of Doom),
+0,␀,0,"PIC
+PIF
+SEA
+YTR","IBM Storyboard bitmap file
+Windows Program Information File
+Mac Stuffit Self-Extracting Archive
+IRIS OCR data file",
+"00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00","␀␀␀␀␀␀␀␀
+␀␀␀␀␀␀␀␀
+␀␀␀␀␀␀␀␀",11,PDB,PalmPilot Database/Document File,
+BE BA FE CA,¾ºþÊ,0,DBA,Palm Desktop Calendar Archive,
+00 01 42 44,␀␁BD,0,DBA,Palm Desktop To Do Archive,
+00 01 44 54,␀␁DT,0,TDA,Palm Desktop Calendar Archive,
+54 44 46 24,TDF$,0,TDF$,Telegram Desktop File,
+54 44 45 46,TDEF,0,TDEF,Telegram Desktop Encrypted File,
+00 01 00 00,␀␁␀␀,0,,Palm Desktop Data File (Access format),
+00 00 01 00,␀␀␁␀,0,ico,Computer icon encoded in ICO file format,
+69 63 6e 73,icns,0,icns,Apple Icon Image format,
+66 74 79 70 33 67,ftyp3g,4,"3gp
+3g2",3rd Generation Partnership Project 3GPP and 3GPP2 multimedia files,
+1F 9D,␟□,0,"z
+tar.z",compressed file (often tar zip) using Lempel-Ziv-Welch algorithm,
+1F A0,␟⍽,0,"z
+tar.z",Compressed file (often tar zip) using LZH algorithm,
+2D 68 6C 30 2D,-lh0-,2,lzh,Lempel Ziv Huffman archive file Method 0 (No compression),
+2D 68 6C 35 2D,-lh5-,2,lzh,Lempel Ziv Huffman archive file Method 5 (8KiB sliding window),
+"42 41 43 4B 4D 49 4B 45
+44 49 53 4B",BACKMIKEDISK,0,bac,AmiBack Amiga Backup data file,
+49 4E 44 58,INDX,0,idx,AmiBack Amiga Backup index file,
+62 70 6C 69 73 74,bplist,0,plist,Binary Property List file,
+42 5A 68,BZh,0,bz2,Compressed file using Bzip2 algorithm,
+"47 49 46 38 37 61
+47 49 46 38 39 61","GIF87a
+GIF89a",0,gif,Image file encoded in the Graphics Interchange Format (GIF),
+49 49 2A 00 (little-endian),II*␀,0,"tif
+tiff",Tagged Image File Format (TIFF),
+4D 4D 00 2A (big-endian),MM␀*,0,"tif
+tiff",Tagged Image File Format (TIFF),
+"49 49 2A 00 10 00 00 00
+43 52",II*␀␐␀␀␀CR,0,cr2,"Canon RAW Format Version 2
+Canon's RAW format is based on TIFF.",
+80 2A 5F D7,€*_×,0,cin,Kodak Cineon image,
+"52 4E 43 01
+52 4E 43 02","RNC␁
+RNC␂",0,,Compressed file using Rob Northen Compression (version 1 and 2) algorithm,
+"4E 55 52 55 49 4D 47
+4E 55 52 55 50 41 4C","NURUIMG
+NURUPAL",0,"nui
+nup",nuru ASCII/ANSI image and palette files,
+53 44 50 58 (big-endian format),SDPX,0,dpx,SMPTE DPX image,
+58 50 44 53 (little-endian format),XPDS,0,dpx,SMPTE DPX image,
+76 2F 31 01,v/1␁,0,exr,OpenEXR image,
+42 50 47 FB,BPGû,0,bpg,Better Portable Graphics format,
+FF D8 FF DB,ÿØÿÛ,0,"jpg
+jpeg",JPEG raw or in the JFIF or Exif file format,
+"FF D8 FF E0 00 10 4A 46
+49 46 00 01",ÿØÿà␀␐JFIF␀␁,0,"jpg
+jpeg",JPEG raw or in the JFIF or Exif file format,
+FF D8 FF EE,ÿØÿî,0,"jpg
+jpeg",JPEG raw or in the JFIF or Exif file format,
+"FF D8 FF E1 ?? ?? 45 78
+69 66 00 00",ÿØÿá??Exif␀␀,0,"jpg
+jpeg",JPEG raw or in the JFIF or Exif file format,
+FF D8 FF E0,ÿØÿà,0,jpg,JPEG raw or in the JFIF or Exif file format,
+00 00 00 0C 6A 50 20 20 0D 0A 87 0A,␀␀␀␌jP␠␠␍␊‡␊,0,"jp2
+j2k
+jpf
+jpm
+jpg2
+j2c
+jpc
+jpx
+mj2",JPEG 2000 format,
+FF 4F FF 51,ÿOÿQ,0,"jp2
+j2k
+jpf
+jpm
+jpg2
+j2c
+jpc
+jpx
+mj2",JPEG 2000 format,
+71 6f 69 66,qoif,0,,QOI - The “Quite OK Image Format”,
+"46 4F 52 4D ?? ?? ?? ??
+49 4C 42 4D",FORM????ILBM,"0
+any","ilbm
+lbm
+ibm
+iff",IFF Interleaved Bitmap Image,
+"46 4F 52 4D ?? ?? ?? ??
+38 53 56 58",FORM????8SVX,"0
+any","8svx
+8sv
+svx
+snd
+iff",IFF 8-Bit Sampled Voice,
+"46 4F 52 4D ?? ?? ?? ??
+41 43 42 4D",FORM????ACBM,"0
+any","acbm
+iff",Amiga Contiguous Bitmap,
+"46 4F 52 4D ?? ?? ?? ??
+41 4E 42 4D",FORM????ANBM,"0
+any","anbm
+iff",IFF Animated Bitmap,
+"46 4F 52 4D ?? ?? ?? ??
+41 4E 49 4D",FORM????ANIM,"0
+any","anim
+iff",IFF CEL Animation,
+"46 4F 52 4D ?? ?? ?? ??
+46 41 58 58",FORM????FAXX,"0
+any","faxx
+fax
+iff",IFF Facsimile Image,
+"46 4F 52 4D ?? ?? ?? ??
+46 54 58 54",FORM????FTXT,"0
+any","ftxt
+iff",IFF Formatted Text,
+"46 4F 52 4D ?? ?? ?? ??
+53 4D 55 53",FORM????SMUS,"0
+any","smus
+smu
+mus
+iff",IFF Simple Musical Score,
+"46 4F 52 4D ?? ?? ?? ??
+43 4D 55 53",FORM????CMUS,"0
+any","cmus
+mus
+iff",IFF Musical Score,
+"46 4F 52 4D ?? ?? ?? ??
+59 55 56 4E",FORM????YUVN,"0
+any","yuvn
+yuv
+iff",IFF YUV Image,
+"46 4F 52 4D ?? ?? ?? ??
+46 41 4E 54",FORM????FANT,"0
+any",iff,Amiga Fantavision Movie,
+"46 4F 52 4D ?? ?? ?? ??
+41 49 46 46",FORM????AIFF,"0
+any","aiff
+aif
+aifc
+snd
+iff",Audio Interchange File Format,
+4C 5A 49 50,LZIP,0,lz,lzip compressed file,
+30 37 30 37 30 37,70707,0,cpio,cpio archive file,
+4D 5A,MZ,0,"exe
+scr
+sys
+dll
+fon
+cpl
+iec
+ime
+rs
+tsp
+mz",DOS MZ executable and its descendants (including NE and PE),
+5A 4D,ZM,0,exe,DOS ZM executable and its descendants (rare),
+"50 4B 03 04
+50 4B 05 06 (empty archive)
+50 4B 07 08 (spanned archive)","PK␃␄
+PK␅␆
+PK␇␈",0,"zip
+aar
+apk
+docx
+epub
+ipa
+jar
+kmz
+maff
+msix
+odp
+ods
+odt
+pk3
+pk4
+pptx
+usdz
+vsdx
+xlsx
+xpi","zip file format and formats based on it, such as EPUB, JAR, ODF, OOXML",
+52 61 72 21 1A 07 00,Rar!␚␇␀,0,rar,Roshal ARchive compressed archive v1.50 onwards,
+52 61 72 21 1A 07 01 00,Rar!␚␇␁␀,0,rar,Roshal ARchive compressed archive v5.00 onwards,
+7F 45 4C 46,␡ELF,0,,Executable and Linkable Format,
+89 50 4E 47 0D 0A 1A 0A,‰PNG␍␊␚␊,0,png,Image encoded in the Portable Network Graphics format,
+C9,É,0,com,CP/M 3 and higher with overlays,
+CA FE BA BE,Êþº¾,0,class,"Java class file, Mach-O Fat Binary",
+EF BB BF,ï»¿,0,"txt
+others","UTF-8 byte order mark, commonly seen in text files.",
+FF FE,ÿþ,0,"txt
+others","UTF-16LE byte order mark, commonly seen in text files.",
+FE FF,þÿ,0,"txt
+others","UTF-16BE byte order mark, commonly seen in text files.",
+FF FE 00 00,ÿþ␀␀,0,"txt
+others",UTF-32LE byte order mark for text,
+00 00 FE FF,␀␀þÿ,0,"txt
+others",UTF-32BE byte order mark for text,
+"2B 2F 76 38
+2B 2F 76 39
+2B 2F 76 2B
+2B 2F 76 2F","+/v8
++/v9
++/v+
++/v/",0,,UTF-7 byte order mark for text,
+0E FE FF,␎þÿ,0,"txt
+others",SCSU byte order mark for text,
+DD 73 66 73,Ýsfs,0,,UTF-EBCDIC byte order mark for text,
+FE ED FA CE,þíúÎ,"0
+0x1000",,Mach-O binary (32-bit),
+FE ED FA CF,þíúÏ,"0
+0x1000",,Mach-O binary (64-bit),
+FE ED FE ED,þíþí,0,,JKS JavakeyStore,
+CE FA ED FE,Îúíþ,0,,"Mach-O binary (reverse byte ordering scheme, 32-bit)",
+CF FA ED FE,Ïúíþ,0,,"Mach-O binary (reverse byte ordering scheme, 64-bit)",
+25 21 50 53,%!PS,0,ps,PostScript document,
+25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 30 20 45 50 53 46 2D 33 2E 30,%!PS-Adobe-3.0 ESPF-3.0,0,"eps
+epsf",Encapsulated PostScript file version 3.0,
+25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 31 20 45 50 53 46 2D 33 2E 30,%!PS-Adobe-3.1 ESPF-3.0,0,"eps
+epsf",Encapsulated PostScript file version 3.1,
+"49 54 53 46 03 00 00 00
+60 00 00 00",ITSF␃␀␀␀`␀␀␀,0,chm,MS Windows HtmlHelp Data,
+3F 5F,?_,0,hlp,Windows 3.x/95/98 Help file,
+25 50 44 46 2D,%PDF-,0,pdf,PDF document,
+"30 26 B2 75 8E 66 CF 11
+A6 D9 00 AA 00 62 CE 6C",0&²uŽfÏ␑¦Ù␀ª␀bÎl,0,"asf
+wma
+wmv",Advanced Systems Format,
+24 53 44 49 30 30 30 31,$SDI0001,0,,"System Deployment Image, a disk image format used by Microsoft",
+4F 67 67 53,OggS,0,"ogg
+oga
+ogv","Ogg, an open source media container format",
+38 42 50 53,8BPS,0,psd,"Photoshop Document file, Adobe Photoshop's native file format",
+"52 49 46 46 ?? ?? ?? ??
+57 41 56 45",RIFF????WAVE,0,wav,Waveform Audio File Format,
+"52 49 46 46 ?? ?? ?? ??
+41 56 49 20",RIFF????AVI␠,0,avi,Audio Video Interleave video format,
+"FF FB
+FF F3
+FF F2","ÿû
+ÿó
+ÿò",0,mp3,MPEG-1 Layer 3 file without an ID3 tag or with an ID3v1 tag (which is appended at the end of the file),
+49 44 33,ID3,0,mp3,MP3 file with an ID3v2 container,
+42 4D,BM,0,"bmp
+dib","BMP file, a bitmap format used mostly in the Windows world",
+43 44 30 30 31,CD001,"0x8001
+0x8801
+0x9001",iso,ISO9660 CD/DVD image file,
+43 44 30 30 31,CD001,5EAC9,cdi,CD-i CD image file,
+6D 61 69 6E 2E 62 73,main.bs,0,mgw,Nintendo Game & Watch image file,
+4E 45 53,NES,0,nes,Nintendo Entertainment System image file,
+A0 32 41 A0 A0 A0,2A,165A4,d64,Commodore 64 1541 disk image (D64 format),
+47 53 52 2D 31 35 34 31,GCR-1541,0,g64,Commodore 64 1541 disk image (G64 format),
+A0 33 44 A0 A0,3D,61819,d81,Commodore 64 1581 disk image (D81 format),
+43 36 34 20 74 61 70 65 20 69 6D 61 67 65 20 66 69 6C 65,C64 tape image file,0,t64,Commodore 64 tape image,
+43 36 34 20 43 41 52 54 52 49 44 47 45 20 20 20,C64 CARTRIDGE,0,crt,Commodore 64 cartridge image,
+"53 49 4D 50 4C 45 20 20
+3D 20 20 20 20 20 20 20
+20 20 20 20 20 20 20 20
+20 20 20 20 20 54","SIMPLE␠␠
+=␠␠␠␠␠␠␠
+␠␠␠␠␠␠␠␠
+␠␠␠␠␠T",0,fits,Flexible Image Transport System (FITS),
+66 4C 61 43,fLaC,0,flac,Free Lossless Audio Codec,
+4D 54 68 64,MThd,0,"mid
+midi",MIDI sound file,
+D0 CF 11 E0 A1 B1 1A E1,ÐÏ␑à¡±␚á,0,"doc
+xls
+ppt
+msi
+msg","Compound File Binary Format, a container format defined by Microsoft COM. It can contain the equivalent of files and directories. It is used by Windows Installer and for documents in older versions of Microsoft Office. It can be used by other programs as well that rely on the COM and OLE API's.",
+64 65 78 0A 30 33 35 00,dex␊035␀,0,dex,Dalvik Executable,
+4B 44 4D,KDM,0,vmdk,VMDK files,
+23 20 44 69 73 6B 20 44 65 73 63 72 69 70 74 6F,# Disk Descripto,0,vmdk,VMware 4 Virtual Disk desription file (split disk),
+43 72 32 34,Cr24,0,crx,Google Chrome extension or packaged app,
+41 47 44 33,AGD3,0,fh8,FreeHand 8 document,
+"05 07 00 00 42 4F 42 4F
+05 07 00 00 00 00 00 00
+00 00 00 00 00 01","␅␇␀␀BOBO
+␅␇␀␀␀␀␀␀
+␀␀␀␀␀␁",0,cwk,AppleWorks 5 document,
+"06 07 E1 00 42 4F 42 4F
+06 07 E1 00 00 00 00 00
+00 00 00 00 00 01","␆␇á␀BOBO
+␆␇á␀␀␀␀␀
+␀␀␀␀␀␁",0,cwk,AppleWorks 6 document,
+45 52 02 00 00 00,ER␂␀␀␀,0,toast,Roxio Toast disc image file,
+8B 45 52 02 00 00 00,‹ER␂␀␀␀,0,toast,Roxio Toast disc image file,
+6B 6F 6C 79,koly,end–512,dmg,Apple Disk Image file,
+78 61 72 21,xar!,0,xar,eXtensible ARchive format,
+50 4D 4F 43 43 4D 4F 43,PMOCCMOC,0,dat,Windows Files And Settings Transfer Repository See also USMT 3.0 (Win XP) and USMT 4.0 (Win 7) User Guides,
+4E 45 53 1A,NES␚,0,nes,Nintendo Entertainment System ROM file,
+"75 73 74 61 72 00 30 30
+75 73 74 61 72 20 20 00","ustar␀00
+ustar␠␠␀",257,tar,tar archive,
+4F 41 52 ??,OAR?,0,oar,"OAR file archive format, where ?? is the format version.",
+74 6F 78 33,tox3,0,tox,Open source portable voxel file,
+4D 4C 56 49,MLVI,0,MLV,Magic Lantern Video file,
+"44 43 4D 01 50 41 33 30
+50 41 33 30","DCM␁PA30
+PA30",0,,Windows Update Binary Delta Compression file,
+37 7A BC AF 27 1C,7z¼¯'␜,0,7z,7-Zip File Format,
+1F 8B,␟‹,0,"gz
+tar.gz",GZIP compressed file,
+FD 37 7A 58 5A 00,ý7zXZ␀,0,"xz
+tar.xz","XZ compression utility
+ using LZMA2 compression",
+04 22 4D 18,"␄""M␘",0,lz4,"LZ4 Frame Format
+Remark: LZ4 block format does not offer any magic bytes.",
+4D 53 43 46,MSCF,0,cab,Microsoft Cabinet file,
+53 5A 44 44 88 F0 27 33,SZDDˆð'3,0,??_,"Microsoft compressed file in Quantum format, used prior to Windows XP.  File can be decompressed using Extract.exe or Expand.exe distributed with earlier versions of Windows. After compression, the last character of the original filename extension is replaced with an underscore, e.g. ‘Setup.exe’ becomes ‘Setup.ex_’.",
+46 4C 49 46,FLIF,0,flif,Free Lossless Image Format,
+1A 45 DF A3,␚Eß£,0,"mkv
+mka
+mks
+mk3d
+webm","Matroska media container, including WebM",
+4D 49 4C 20,MIL␠,0,stg,"""SEAN : Session Analysis"" Training file. Also used in compatible software ""Rpw : Rowperfect for Windows"" and ""RP3W : ROWPERFECT3 for Windows"".",
+"41 54 26 54 46 4F 52 4D
+?? ?? ?? ?? 44 4A 56",AT&TFORM????DJV,0,"djvu
+djv","DjVu document
+The following byte is either 55 (U) for single-page or 4D (M) for multi-page documents.",
+30 82,0‚,0,der,DER encoded X.509 certificate,
+2D 2D 2D 2D 2D 42 45 47 49 4E 20 43 45 52 54 49 46 49 43 41 54 45 2D 2D 2D 2D 2D,-----BEGIN CERTIFICATE-----,0,"crt
+pem",PEM encoded X.509 certificate,
+2D 2D 2D 2D 2D 42 45 47 49 4E 20 43 45 52 54 49 46 49 43 41 54 45 20 52 45 51 55 45 53 54 2D 2D 2D 2D 2D,-----BEGIN CERTIFICATE REQUEST-----,0,"csr
+pem",PEM encoded X.509 Certificate Signing Request,
+2D 2D 2D 2D 2D 42 45 47 49 4E 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,-----BEGIN PRIVATE KEY-----,0,"key
+pem",PEM encoded X.509 PKCS#8 private key,
+2D 2D 2D 2D 2D 42 45 47 49 4E 20 44 53 41 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,-----BEGIN DSA PRIVATE KEY-----,0,"key
+pem",PEM encoded X.509 PKCS#1 DSA private key,
+2D 2D 2D 2D 2D 42 45 47 49 4E 20 52 45 41 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,-----BEGIN RSA PRIVATE KEY-----,0,"key
+pem",PEM encoded X.509 PKCS#1 RSA private key,
+50 75 54 54 59 2D 55 73 65 72 2D 4B 65 79 2D 46 69 6C 65 2D 32 3A,PuTTY-User-Key-File-2:,0,ppk,PuTTY private key file version 2,
+50 75 54 54 59 2D 55 73 65 72 2D 4B 65 79 2D 46 69 6C 65 2D 33 3A,PuTTY-User-Key-File-3:,0,ppk,PuTTY private key file version 3,
+2D 2D 2D 2D 2D 42 45 47 49 4E 20 4F 50 45 4E 53 53 48 20 50 52 49 56 41 54 45 20 4B 45 59 2D 2D 2D 2D 2D,-----BEGIN OPENSSH PRIVATE KEY-----,0,,OpenSSH private key file,
+2D 2D 2D 2D 2D 42 45 47 49 4E 20 53 53 48 32 20 4B 45 59 2D 2D 2D 2D 2D,-----BEGIN SSH2 PUBLIC KEY-----,0,pub,OpenSSH public key file,
+44 49 43 4D,DICM,128,dcm,DICOM Medical File Format,
+77 4F 46 46,wOFF,0,woff,WOFF File Format 1.0,
+77 4F 46 32,wOF2,0,woff2,WOFF File Format 2.0,
+3C 3F 78 6D 6C 20,<?xml␠,"0
+after BOM",xml,eXtensible Markup Language,
+"3C 00 3F 00 78 00 6D 00
+6C 00 20",<␀?␀x␀m␀l␀␠␀,"0
+after BOM",xml,eXtensible Markup Language,
+"00 3C 00 3F 00 78 00 6D
+00 6C 00 20",␀<␀?␀x␀m␀l␀␠,"0
+after BOM",xml,eXtensible Markup Language,
+"3C 00 00 00 3F 00 00 00
+78 00 00 00 6D 00 00 00
+6C 00 00 00 20 00 00 00","<␀␀␀?␀␀␀
+x␀␀␀m␀␀␀
+l␀␀␀␠␀␀␀","0
+after BOM",xml,eXtensible Markup Language,
+"00 00 00 3C 00 00 00 3F
+00 00 00 78 00 00 00 6D
+00 00 00 6C 00 00 00 20","␀␀␀<␀␀␀?
+␀␀␀x␀␀␀m
+␀␀␀l␀␀␀␠","0
+after BOM",xml,eXtensible Markup Language,
+4C 6F A7 94 93 40,Lo§”“@,"0
+after BOM",xml,eXtensible Markup Language,
+00 61 73 6D,␀asm,0,wasm,WebAssembly binary format,
+CF 84 01,Ï„␁,0,lep,Lepton compressed JPEG image,
+43 57 53,CWS,0,swf,Adobe Flash .swf,
+46 57 53,FWS,0,swf,Adobe Flash .swf,
+21 3C 61 72 63 68 3E 0A,!<arch>␊,0,deb,linux deb file,
+"52 49 46 46 ?? ?? ?? ??
+57 45 42 50",RIFF????WEBP,0,webp,"Google WebP image file, where ?? ?? ?? ?? is the file size. More information on WebP File Header",
+27 05 19 56,'␅␙V,0,,U-Boot / uImage. Das U-Boot Universal Boot Loader.,
+7B 5C 72 74 66 31,{\rtf1,0,rtf,Rich Text Format,
+54 41 50 45,TAPE,0,,Microsoft Tape Format,
+47,G,"0
+0xBC
+0x178
+...
+(every 188th byte)","ts
+tsv
+tsa
+mpg
+mpeg",MPEG Transport Stream  (MPEG-2 Part 1),
+00 00 01 BA,␀␀␁º,0,"m2p
+vob
+mpg
+mpeg",MPEG Program Stream  (MPEG-1 Part 1 (essentially identical) and MPEG-2 Part 1),
+00 00 01 B3,␀␀␁³,0,"mpg
+mpeg",MPEG-1 video and MPEG-2 video  (MPEG-1 Part 2 and MPEG-2 Part 2),
+66 74 79 70 69 73 6F 6D,ftypisom,4,mp4,ISO Base Media file (MPEG-4),
+78 01,x␁,0,zlib,No Compression (no preset dictionary),
+78 5E,x^,0,zlib,Best speed (no preset dictionary),
+78 9C,xœ,0,zlib,Default Compression (no preset dictionary),
+78 DA,xÚ,0,zlib,Best Compression (no preset dictionary),
+78 20,x␠,0,zlib,No Compression (with preset dictionary),
+78 7D,x},0,zlib,Best speed (with preset dictionary),
+78 BB,x»,0,zlib,Default Compression (with preset dictionary),
+78 F9,xù,0,zlib,Best Compression (with preset dictionary),
+62 76 78 32,bvx2,0,lzfse,LZFSE - Lempel-Ziv style data compression algorithm using Finite State Entropy coding. OSS by Apple.,
+4F 52 43,ORC,0,orc,Apache ORC (Optimized Row Columnar) file format,
+4F 62 6A 01,Obj␁,0,avro,Apache Avro binary file format,
+53 45 51 36,SEQ6,0,rc,RCFile columnar file format,
+65 87 78 56,e‡xV,0,"p25
+obt",PhotoCap Object Templates,
+55 55 AA AA,UUªª,0,pcv,PhotoCap Vector,
+78 56 34,xV4,0,"pbt
+pdt
+pea
+peb
+pet
+pgt
+pict
+pjt
+pkt
+pmt",PhotoCap Template,
+50 41 52 31,PAR1,0,,Apache Parquet columnar file format,
+45 4D 58 32,EMX2,0,ez2,Emulator Emaxsynth samples,
+45 4D 55 33,EMU3,0,"ez3
+iso",Emulator III synth samples,
+1B 4C 75 61,␛Lua,0,luac,Lua bytecode,
+"62 6F 6F 6B 00 00 00 00
+6D 61 72 6B 00 00 00 00",book␀␀␀␀mark␀␀␀␀,0,alias,macOS file Alias (Symbolic link),
+"5B 5A 6F 6E 65 54 72 61
+6E 73 66 65 72 5D",[ZoneTransfer],0,Identifier,Microsoft Zone Identifier for URL Security Zones,
+"52 65 63 65 69 76 65 64
+3A",Received:,0,eml,Email Message var5[citation needed],
+"20 02 01 62 A0 1E AB 07
+02 00 00 00",␠␂␁b⍽␞«␇␂␀␀␀,0,tde,Tableau Datasource,
+"37 48 03 02 00 00 00 00
+58 35 30 39 4B 45 59",7H␃␂␀␀␀␀X509KEY,0,kdb,KDB file,
+85 ?? ?? 03,…??␃,0,pgp,PGP file,
+28 B5 2F FD,(µ/ý,0,zst,Zstandard compress,
+52 53 56 4B 44 41 54 41,RSVKDATA,0,rs,QuickZip rs compressed archive,
+3A 29 0A,:)␊,0,sml,Smile file,
+4A 6F 79 21,Joy!,0,,Preferred Executable Format,
+31 0A 30 30,1␊00,0,srt,SubRip File,
+34 12 AA 55,4␒ªU,0,vpk,"VPK file, used to store game data for some Source Engine games",
+2A 2A 41 43 45 2A 2A,**ACE**,0,ace,ACE (compressed file format)[citation needed],
+60 EA,`ê,0,arj,ARJ,
+49 53 63 28,ISc(,0,cab,InstallShield CAB Archive File,
+4B 57 41 4A,KWAJ,0,??_,Windows 3.1x Compressed File,
+53 5A 44 44,SZDD,0,??_,Windows 9x Compressed File,
+5A 4F 4F,ZOO,0,zoo,Zoo (file format),
+50 31 0A,P1␊,0,pbm,Portable bitmap ASCII,
+50 34 0A,P4␊,0,pbm,Portable bitmap binary,
+50 32 0A,P2␊,0,pgm,Portable Gray Map ASCII,
+50 35 0A,P5␊,0,pgm,Portable Gray Map binary,
+50 33 0A,P3␊,0,ppm,Portable Pixmap ASCII,
+50 36 0A,P6␊,0,ppm,Portable Pixmap binary,
+D7 CD C6 9A,×ÍÆš,0,wmf,Windows Metafile,
+67 69 6D 70 20 78 63 66,gimp xcf,0,xcf,XCF (file format),
+"2F 2A 20 58 50 4D 20 2A
+2F",/* XPM */,0,xpm,X PixMap,
+41 46 46,AFF,0,aff,Advanced Forensics Format,
+45 56 46 32,EVF2,0,Ex01,EnCase EWF version 2 format,
+45 56 46,EVF,0,e01,EnCase EWF version 1 format,
+51 46 49,QFI,0,qcow,qcow file format,
+"52 49 46 46 ?? ?? ?? ??
+41 43 4F 4E",RIFF????ACON,0,ani,Animated cursor,
+"52 49 46 46 ?? ?? ?? ??
+43 44 44 41",RIFF????CDDA,0,cda,.cda file,
+"52 49 46 46 ?? ?? ?? ??
+51 4C 43 4D",RIFF????QLCM,0,qcp,Qualcomm PureVoice file format,
+"52 49 46 58 ?? ?? ?? ??
+46 47 44 4D (big-endian)",RIFX????FGDM,0,dcr,Adobe Shockwave,
+"58 46 49 52 ?? ?? ?? ??
+4D 44 47 46 (little-endian)",XFIR????MDGF,0,dcr,Adobe Shockwave,
+"52 49 46 58 ?? ?? ?? ??
+4D 56 39 33 (big-endian)",RIFX????MV93,0,"dir
+dxr
+drx",Macromedia Director file format,
+"58 46 49 52 ?? ?? ?? ??
+33 39 56 4D (little-endian)",XFIR????39VM,0,"dir
+dxr
+drx",Macromedia Director file format,
+46 4C 56,FLV,0,flv,Flash Video file,
+"3C 3C 3C 20 4F 72 61 63
+6C 65 20 56 4D 20 56 69
+72 74 75 61 6C 42 6F 78
+20 44 69 73 6B 20 49 6D
+61 67 65 20 3E 3E 3E","<<< Orac
+le VM Vi
+rtualBox
+ Disk Im
+age >>>",0,vdi,VirtualBox Virtual Hard Disk file format,
+"63 6F 6E 6E 65 63 74 69
+78",connectix,0,vhd,Windows Virtual PC Virtual Hard Disk file format,
+76 68 64 78 66 69 6C 65,vhdxfile,0,vhdx,Windows Virtual PC Windows 8 Virtual Hard Disk file format,
+49 73 5A 21,IsZ!,0,isz,Compressed ISO image,
+44 41 41,DAA,0,daa,Direct Access Archive PowerISO,
+4C 66 4C 65,LfLe,0,evt,Windows Event Viewer file format,
+45 6C 66 46 69 6C 65,ElfFile,0,evtx,Windows Event Viewer XML file format,
+73 64 62 66,sdbf,8,sdb,Windows customized database,
+50 4D 43 43,PMCC,0,grp,Windows 3.x Program Manager Program Group file format,
+4B 43 4D 53,KCMS,0,icm,ICC profile,
+72 65 67 66,regf,0,"dat
+hiv",Windows Registry file,
+21 42 44 4E,!BDN,0,pst,Microsoft Outlook Personal Storage Table file,
+44 52 41 43 4F,DRACO,0,drc,3D model compressed with Google Draco,
+47 52 49 42,GRIB,0,"grib
+grib2",Gridded data (commonly weather observations or forecasts) in the WMO GRIB or GRIB2 format,
+42 4C 45 4E 44 45 52,BLENDER,0,blend,Blender File Format,
+00 00 00 0C 4A 58 4C 20 0D 0A 87 0A,␀␀␀␌JXL␠␍␊‡␊,0,jxl,Image encoded in the JPEG XL format,
+FF 0A,ÿ␊,0,jxl,Image encoded in the JPEG XL format,
+00 01 00 00 00,␀␁␀␀␀,0,"ttf
+tte
+dfont",TrueType font,
+4F 54 54 4F,OTTO,0,otf,OpenType font,
+23 25 4D 6F 64 75 6C 65,#%Module,0,,Modulefile for Environment Modules,
+"4D 53 57 49 4D 00 00 00
+D0 00 00 00 00",MSWIM␀␀␀Ð␀␀␀␀,0,"wim
+swm
+esd",Windows Imaging Format file,
+21 2D 31 53 4C 4F 42 1F,!-1SLOB␟,0,slob,"Slob (sorted list of blobs) is a read-only, compressed data store with dictionary-like interface",
+AC ED,¬í,0,,Serialized Java Data,
+43 72 65 61 74 69 76 65 20 56 6F 69 63 65 20 46 69 6C 65 1A 1A 00,Creative Voice File,0,voc,Creative Voice file,
+2E 73 6E 64,.snd,0,"au
+snd",Au audio file format,
+DB 0A CE 00,,0,,OpenGL Iris Perfomer .PFB (Performer Fast Binary),
+48 5a 4c 52 00 00 00 18,HZLR,0,hazelrules,Noodlesoft Hazel,
+46 4C 68 64,FLhd,0,flp,FL Studio Project File,
+31 30 4C 46,10LF,0,flm,FL Studio Mobile Project File,
+52 4b 4d 43 32 31 30,RKMC210,0,,Vormetric Encryption DPM Version 2.1 Header,
+00 01 00 00 4D 53 49 53 41 4D 20 44 61 74 61 62 61 73 65,....MSISAM Database,0,mny,Microsoft Money file,
+00 01 00 00 53 74 61 6E 64 61 72 64 20 41 43 45 20 44 42,....Standard ACE DB,0,accdb,Microsoft Access 2007 Database,
+00 01 00 00 53 74 61 6E 64 61 72 64 20 4A 65 74 20 44 42,...Standard Jet DB,0,mdb,Microsoft Access Database,
+01 FF 02 04 03 02,.ÿ....,0,drw,Micrografx vector graphic file,
+02 64 73 73,.dss,0,dss,"Digital Speech Standard (Olympus, Grundig, & Phillips) v2",
+03 64 73 73,.dss,0,dss,"Digital Speech Standard (Olympus, Grundig, & Phillips) v3",
+03 00 00 00 41 50 50 52,....APPR,0,adx,Approach index file,
+06 06 ED F5 D8 1D 46 E5 BD 31 EF E7 FE 74 B7 1D,..íõØ.Få½1ïçþt·.,0,indd,Adobe InDesign document,
+06 0E 2B 34 02 05 01 01 0D 01 02 01 01 02,..+4..........,0-65535 (run-in),mxf,Material Exchange Format file,
+07 53 4B 46,.SKF,0,skf,SkinCrafter skin file,
+07 64 74 32 64 64 74 64,.dt2ddtd,0,dtd,DesignTools 2D Design file,
+0A 16 6F 72 67 2E 62 69 74 63 6F 69 6E 2E 70 72,..org.bitcoin.pr,0,wallet,MultiBit Bitcoin wallet file,
+0D 44 4F 43,.DOC,0,doc,DeskMate Document file,
+0E 4E 65 72 6F 49 53 4F,.NeroISO,0,nri,Nero CD Compilation,
+0E 57 4B 53,.WKS,0,wks,DeskMate Worksheet,
+0F 53 49 42 45 4C 49 55 53,.SIBELIUS,0,sib,Sibelius Music - Score file,
+23 20 4D 69 63 72 6F 73 6F 66 74 20 44 65 76 65 6C 6F 70 65 72 20 53 74 75 64 69 6F,# Microsoft Developer Studio,0,dsp,Microsoft Developer Studio project file,
+23 21 41 4D 52,#!AMR,0,amr,"Adaptive Multi-Rate ACELP (Algebraic Code Excited Linear Prediction) Codec, commonly audio format with GSM cell phones.",
+23 21 53 49 4C 4B 0A,#!SILK.,0,sil,Audio compression format developed by Skype,
+23 3F 52 41 44 49 41 4E 43 45 0A,#?RADIANCE.,0,hdr,Radiance High Dynamic Range image file,
+23 40 7E 5E,#@~^,0,vbe,VBScript Encoded script,
+0D F0 1D C0,␍ð�À,0,cdb,MikroTik WinBox Connection Database (Address Book),
+3C 73 76 67,<svg,0,svg,,
