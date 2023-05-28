@@ -26,4 +26,4 @@ A simple library for identifying file types by their magic bytes.
 | .tif      | Tagged Image File Format | Image |
 | .webp     | WebP Image File | Image |
 | .eot      | Embedded OpenType Font File | Font |
-| .otf      | OpenType Font File
+| .otf      | OpenType Font File | Font |
