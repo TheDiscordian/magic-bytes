@@ -19,8 +19,6 @@ For usage, see the [examples directory](./examples).
 
 Add new extensions by modifying [file_sigs.csv](./file_sigs.csv), put it in this list, then run `python3 convert.py`. Afterwards, submit a PR. All contributions are loved and welcome.
 
-- svg
-
 ## Supported extensions (shortened, see CSV for full list)
 
 
